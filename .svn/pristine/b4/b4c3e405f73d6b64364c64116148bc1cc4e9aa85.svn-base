@@ -1,0 +1,306 @@
+[
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_graph.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_show_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_do_exercise.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_do_exercise.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_homework.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_add_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datahomework_row.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\datahomework_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dialog.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\button_row.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\button_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_detail.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\main_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_do_homework_success.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\dialog_do_homework_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_itemdthw.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\listview_itemdthw.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grade_item.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\grade_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_schedule_exam.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_schedule_exam.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chapter_item.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\chapter_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_calendar.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\score_row.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\score_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_itemexam.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\listview_itemexam.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_itemassign.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\listview_itemassign.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\course_item.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\course_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ansexercise_row.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\ansexercise_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_score.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_show_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_row.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\calendar_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_exam.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\dialog_exam.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\launcher.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_layout.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\list_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_subject.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view_item.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\list_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_event_exam.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_event_exam.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homework.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_homework.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pieviewlayout.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\pieviewlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\showgraph_row.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\showgraph_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_datahomework.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_datahomework.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_assignment.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\activity_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_my.xml",
+        "source": "C:\\Users\\samra\\Documents\\AndroidProject\\ProjectHomework\\2.0\\ProjectHomework\\app\\src\\main\\res\\layout\\fragment_my.xml"
+    }
+]

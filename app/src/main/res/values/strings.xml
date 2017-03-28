@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Smart Homework</string>
+    <string name="app_nameAddHw">Add Homework</string>
+    <string name="app_nameDataHw">Data Homework</string>
+    <string name="app_homework">Homework</string>
+    <string name="app_select">Please Select</string>
+
+    <string name="btn_smt">submit</string>
+    <string name="recent">Recent</string>
+    <string name="action_add">add Homework</string>
+    <string name="action_event">Event Exam</string>
+    <string name="log_in">เข้าระบบ</string>
+    <string name="username">ชื่อผู้ใช้งาน</string>
+    <string name="display_name">แสดงชื่อ</string>
+    <string name="password">รหัสผ่าน</string>
+
+    <!--MainActivityAlertDialog-->
+
+
+    <!-- Content Description -->
+    <string name="strdiscrip">Discription</string>
+    <string name="pie_chart_sent_legend">Sent %.0f%%</string>
+    <string name="pie_chart_reject_legend">Reject %.0f%%</string>
+    <string name="pie_chart_open_legend">Open %.0f%%</string>
+    <string name="pie_chart_receive_legend">Received %.0f%%</string>
+
+    <!-- Content description -->
+    <string name="content_description_contact_picture">Contact picture</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="app_main">Smart Homework</string>
+    <string name="label_assignment">Assignment</string>
+    <string name="label_schedule">Schedule</string>
+    <string name="label_score">Score</string>
+    <string name="label_history">History</string>
+    <string name="welcome">ยินดีต้อนรับ</string>
+    <string name="app_description">แอพพลิเคชันส่งการบ้านออนไลน์</string>
+    <string name="please_enter_userandpwd">กรุณากรอกชื่อและรหัสผ่าน</string>
+    <string name="status">ผู้ใช้ทั่วไป</string>
+    <string name="menu">เมนู</string>
+    <string name="date">09/09/2016</string>
+    <string name="digital_time">12:00:00 AM</string>
+    <string name="assign">แบบฝึกหัด</string>
+    <string name="answer_assign">เฉลยแบบฝึกหัด</string>
+    <string name="cell_score">ตารางคะแนน</string>
+    <string name="cal_exam">ปฏิทินสอบ</string>
+    <string name="stat">สถิติการทำแบบฝึกหัด</string>
+    <string name="semeter">ภาคการศึกษา</string>
+    <string name="item">ข้อ</string>
+    <string name="label_exercise">แบบฝึกหัด</string>
+    <string name="label_answer_true">ตอบถูก</string>
+    <string name="label_answer_wrong">ตอบผิด</string>
+    <string name="label_donot">ยังไม่ทำ</string>
+    <string name="message">ต้องการออกจากระบบหรือไม่</string>
+    <string name="dialog_title">ข้อความยืนยัน</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="data_empty">ยังไม่มีข้อมูล</string>
+    <string name="notdohomework">แบบฝึกหัดยังไม่ทำ</string>
+    <string name="selectsubject">เลือกวิชา</string>
+    <string name="selectcharpter">เลือกบทเรียน</string>
+    <string name="send">ส่งการบ้าน</string>
+    <string name="charpter">บทเรียน</string>
+    <string name="item1">ข้อที่1</string>
+    <string name="question1">คำถามข้อที่1</string>
+    <string name="subjectE">วิชาภาษาอังกฤษ</string>
+    <string name="question">คำถาม</string>
+    <string name="answer">เฉลยคำตอบ</string>
+    <string name="answer1">ตอบ:ข้อ1 รายละเอียดคำตอบ</string>
+    <string name="description">คำอธิบาย</string>
+    <string name="answer_detail">รายละเอียดของคำถามข้อที่1</string>
+    <string name="score">ได้คะแนน</string>
+    <string name="sumscore">คะแนนรวม</string>
+    <string name="subject">วิชา</string>
+    <string name="newexercise">มีการบ้านเข้ามาใหม่</string>
+    <string name="expdatetosend">หมดเขตส่งงาน</string>
+    <string name="cannotresend">ไม่สามารถส่งการบ้านซ้ำได้</string>
+    <string name="notcomplete">คุณทำการบ้านไม่ครบ</string>
+    <string name="noteinternet">ไม่มีสัญญาณอินเตอร์เน็ต</string>
+    <string name="sendalready">ส่งการบ้านเรียบร้อย</string>
+    <string name="Level">ความยากระดับ</string>
+    <string name="correct">จำนวนข้อที่ถูก :</string>
+    <string name="wrong">จำนวนข้อที่ผิด :</string>
+    <string name="warning">แจ้งเตือน</string>
+    <string name="noti_donot_homework">มีการค้างส่งการบ้าน</string>
+</resources>

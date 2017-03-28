@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:padding="@dimen/pad_2dp"
+    tools:context="com.amulyakhare.td.sample.MiscActivity">
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/view02"
+        android:layout_alignParentTop="true"
+        android:divider="@color/gray"
+        android:dividerHeight="1dp"></ListView>
+
+    <View
+        android:id="@+id/view02"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@+id/BTN_CLOSE"
+        android:background="@color/select_navdraw" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <ProgressBar
+            android:id="@+id/progress_loaddata"
+            style="?android:attr/progressBarStyleSmall"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="@dimen/pad_2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/text_nodata"
+            style="@style/font2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="3dp"
+            android:text="Loading"
+            android:textSize="@dimen/fontNormal" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/BTN_CLOSE"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/pad_5dp"
+        android:background="@drawable/footer_button_orange"
+        android:text="@string/cancel"
+        android:textColor="@color/white" />
+
+
+</RelativeLayout>

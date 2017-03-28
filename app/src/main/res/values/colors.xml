@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#BF360C</color>
+    <color name="colorAccent">#FF5722</color>
+
+    <color name="colorFront">#ffa645</color>
+
+    <color name="white_smoke">#F7F7F7</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+
+    <color name="main_color_green">#00b863</color>
+    <color name="main_color_gray_dk">#3b3b3b</color>
+    <color name="main_color_gray_lt">#acacac</color>
+    <color name="main_color_gray">#7d7d7d</color>
+    <color name="gray_light">#e8e8e8</color>
+    <color name="color_body">#ea3b00</color>
+
+    <color name="colorA">#ff5e00</color>
+    <color name="colorB">#000000</color>
+    <color name="colorC">#444444</color>
+    <color name="colorD">#808080</color>
+    <color name="colorE">#c4c4c4</color>
+    <color name="colorF">#e1e1e1</color>
+    <color name="colorG">#f3f3f3</color>
+    <color name="colorH">#ffffff</color>
+    <color name="colorI">#ff0000</color>
+    <color name="colorJ">#ffa645</color>
+    <color name="colorK">#3eb5c0</color>
+    <color name="colorL">#96c11f</color>
+
+    <color name="background_color">#000</color>
+    <color name="marker_color">#AFFF</color>
+    <color name="text_color">#AFFF</color>
+    <color name="secondHandColor">#FFFF0000</color>
+
+    <color name="shadow_color">#7AAA</color>
+    <color name="outer_border">#FF444444</color>
+    <color name="inner_border_one">#FF323232</color>
+    <color name="inner_border_two">#FF414141</color>
+    <color name="inner_border">#FFFFFFFF</color>
+
+    <color name="header_name">#01579B</color>
+    <color name="amber_700">#FFA000</color>
+
+    <!-- Create Graph -->
+    <color name="chart_green_1">#FF4CAF50</color>
+    <color name="chart_green_2">#FF4CAF50</color>
+    <color name="chart_orange_1">#FFFF5722</color>
+    <color name="chart_orange_2">#FFFF5722</color>
+    <color name="chart_red_1">#FFE53935</color>
+    <color name="chart_red_2">#FFE53935</color>
+    <color name="chart_blue_1">#FF0091EA</color>
+    <color name="chart_blue_2">#FF0091EA</color>
+    <color name="gray">#E5E5E5</color>
+    <color name="gray_drak">#BDBDBD</color>
+    <color name="background">#EEEEEE</color>
+    <color name="transparent">#00000000</color>
+    <color name="bg_transpaent">#20cccccc</color>
+
+    <!-- Status para as lista -->
+    <color name="navigation_view">#DADADC</color>
+    <color name="navigation_items">#303030</color>
+    <color name="gray_navegation">#ffffff</color>
+
+    <!-- Global Color -->
+    <color name="green">#75a918</color>
+    <color name="dark_green">#679514</color>
+    <color name="orange">#e77e23</color>
+    <color name="dark_orange">#d25400</color>
+    <color name="Teal">#009688</color>
+    <color name="dark_Teal">#00796B</color>
+    <!-- <color name="actionbar_color">#90c53f</color> -->
+
+    <color name="actionbar_color">#34495e</color>
+    <color name="actionbar_text">#ffffff</color>
+    <color name="login_bg">#efefef</color>
+    <color name="stoke_layout">#555555</color>
+    <color name="stoke_layout_left_bg">#e7e7e7</color>
+    <color name="stoke_layout_right_bg">#ffffff</color>
+
+    <!-- Color Donut Graph -->
+    <color name="donut_green">#7fff00</color>
+    <color name="donut_orange">#ff4500</color>
+    <color name="donut_red">#7c0915</color>
+
+    <!-- Color Menu -->
+
+    <color name="bgmenu">#e3e3e3</color>
+    <color name="bgmenu_press">#bcbdbf</color>
+    <color name="bgline1">#9f9f9f</color>
+    <color name="bgline2">#f4f4f4</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#75a918</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="bg_widget">#90111111</color>
+    <color name="select_navdraw">#EFEBE9</color>
+    <color name="ContentGraph">#55ffffff</color>
+
+</resources>

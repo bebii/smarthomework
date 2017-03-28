@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".activity.LoginActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/pad_15dp"
+        android:paddingLeft="@dimen/pad_15dp"
+        android:paddingRight="@dimen/pad_15dp"
+        android:paddingTop="@dimen/pad_20dp">
+
+        <RelativeLayout
+            android:id="@+id/avatar_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:gravity="center">
+
+            <ImageView
+                android:id="@+id/contact_picture"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_alignParentLeft="true"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/content_description_contact_picture"
+                android:src="@mipmap/ic_launcher" />
+
+            <ImageView
+                android:id="@+id/mask"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_alignParentLeft="true"
+                android:layout_margin="5dp"
+                android:adjustViewBounds="true"
+                android:contentDescription="@string/content_description_contact_picture"
+                android:src="@drawable/avatar_mask"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tvWelcome"
+            style="@style/font1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:contentDescription="@string/welcome"
+            android:gravity="center_horizontal"
+            android:paddingTop="15dp"
+            android:text="@string/welcome"
+            android:textAllCaps="true"
+            android:textColor="@color/colorA" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:text="@string/app_description"
+            android:textAllCaps="true"
+            android:textColor="@color/colorA"
+            android:textSize="12sp" />
+
+        <EditText
+            android:id="@+id/edtUsername"
+            style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/pad_10dp"
+            android:drawableLeft="@mipmap/ic_username"
+            android:hint="@string/username"
+            android:textColor="@color/colorC"
+            android:textColorHint="@color/bgline1">
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/edtPassword"
+            style="@style/editext_graybg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/pad_20dp"
+            android:layout_marginTop="@dimen/pad_5dp"
+            android:drawableLeft="@mipmap/ic_pwd"
+            android:hint="@string/password"
+            android:textColorHint="@color/bgline1"
+            android:textColor="@color/colorC"
+            android:inputType="textPassword"></EditText>
+
+        <LinearLayout
+            android:id="@+id/main"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/pad_20dp"
+            android:paddingRight="@dimen/pad_20dp">
+
+            <Button
+                android:id="@+id/btnSubmit"
+                style="@style/btn_white_large"
+                android:layout_width="fill_parent"
+                android:layout_height="55dp"
+                android:text="@string/log_in" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

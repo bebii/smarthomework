@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    tools:context="com.amulyakhare.td.sample.MiscActivity">
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:dividerHeight="1dp"
+        android:layout_above="@+id/view02"
+        android:divider="@color/gray">
+    </ListView>
+    <View
+        android:id="@+id/view02"
+        android:layout_above="@+id/Linear_check"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/select_navdraw" />
+
+    <LinearLayout
+        android:id="@+id/Linear_check"
+        android:visibility="visible"
+        android:background="@color/Teal"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content">
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:text="Select All"
+            android:layout_margin="10dp"
+            android:textColor="@color/white"
+            android:checked="false"
+            android:id="@+id/checkBox" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_nodata"
+        style="@style/font2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/data_empty"
+        android:textColor="@color/colorA"
+        android:textStyle="bold" />
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progress_loaddata"
+        android:layout_below="@+id/text_nodata"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

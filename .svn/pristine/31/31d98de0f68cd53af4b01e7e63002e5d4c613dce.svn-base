@@ -1,0 +1,74 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="pad_2dp">2dp</dimen>
+    <dimen name="pad_5dp">5dp</dimen>
+    <dimen name="pad_10dp">10dp</dimen>
+    <dimen name="pad_15dp">15dp</dimen>
+    <dimen name="pad_20dp">20dp</dimen>
+    <dimen name="pad_30dp">30dp</dimen>
+    <dimen name="pad_chat_item">45dp</dimen>
+    <dimen name="pad_chat_item1">10dp</dimen>
+
+    <dimen name="txt_7sp">7sp</dimen>
+    <dimen name="txt_12sp">12sp</dimen>
+    <dimen name="txt_13sp">13sp</dimen>
+    <dimen name="txt_14sp">14sp</dimen>
+    <dimen name="txt_15sp">15sp</dimen>
+    <dimen name="txt_16sp">16sp</dimen>
+    <dimen name="txt_18sp">18sp</dimen>
+    <dimen name="txt_20sp">20sp</dimen>
+
+    <dimen name="activity_header_margin">10dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+
+
+    <dimen name="minHeight">294dp</dimen>
+    <dimen name="minWeight">294dp</dimen>
+
+    <dimen name="fontHead">16sp</dimen>
+    <dimen name="fontNormal">14sp</dimen>
+    <dimen name="BigText">16sp</dimen>
+    <dimen name="SmallText">12sp</dimen>
+
+    <dimen name="cusfont">12sp</dimen>
+    <dimen name="ImageSize">20dp</dimen>
+
+    <!-- Layout dimention -->
+    <dimen name="layout_button_height">64dp</dimen>
+    <dimen name="layout_height">640dp</dimen>
+    <dimen name="layout_midle_height">256dp</dimen>
+
+    <!-- Radius Donut graph -->
+    <integer name="DONUT_SIZE">90</integer>
+    <integer name="DONUT_OVERLAY_SIZE">45</integer>
+    <integer name="piechart_fontsize">13</integer>
+
+    <dimen name="ImageSize_home">84dp</dimen>
+
+    <!-- Layout fragmenthome -->
+    <dimen name="layout_height_piechart">100dp</dimen>
+    <dimen name="icon_fraghome_height">25dp</dimen>
+    <dimen name="icon_fraghome_width">25dp</dimen>
+
+    <!-- ImageSize -->
+    <dimen name="imgsize_dash">60dp</dimen>
+
+    <!-- sort_layout -->
+    <dimen name="listview_height">297dp</dimen>
+    <dimen name="height_comment">120dp</dimen>
+    <dimen name="height_payment">136dp</dimen>
+    //ImageCameraSizr
+    <dimen name="height_imag">300dp</dimen>
+    <dimen name="width_imag">250dp</dimen>
+</resources>

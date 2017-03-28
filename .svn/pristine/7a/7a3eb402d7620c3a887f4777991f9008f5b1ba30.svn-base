@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_97de0203df2b2d6f45de15f566b07653bb377bfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_5d2176de25bce63d97ae0cd1d4c58b8d61db198f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_1404dd05f8ead9c5166717118b8c992828313ace\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_d80156d34610f2dc40aebac26fbd68ff7c576651\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_bf5e11646b7784ca6c379daf984bee659dec79e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_a75c97ee7000b085be8fe7c8f36cafa2d657293b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ae6079e11e95b94cfaced6301a3325db0f829f5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_0a73a16bae2e5a28ea15548d20568234398c841b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ec6da135af6f285bbe2e8fa9578bba198b3c21b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_38eb1ad84e63aba8a822d0e45277a6c3a851ecb7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_d2f40fc45a42f1dba27acab2113101ce91df075f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_c58b6188fa628081fe6de6a38ed73ce2bac327dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_7940b7a695542e147024fc7699eccc445941da68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_24f6f47fa594b209c703e1b6131b1b2971537eea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_990d75bded7037438eedef22e5e8973d4992e132\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_95c79806463af17b3ec34a91348c42c6cb3e61ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ffb662f1f248dae180ca9e5e10e524bb2000122e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43d0f4bb5cf60243b73bc16784755154c5d6b635">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6309e5271e2e3ff15af2fb4c7605f1862bc4527d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_193a25dc972884bc229be70d1e359169508de79e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.1_54ba8ffe496d2ba98133faaeb4e33dfffff6e284\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_bd6e70acdba7c88da12dece44b8629524c89780b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.1_3bc9c6402f74543f81d77527e68764a8550153e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_d03a521485fca7145735de80621ccf11b2dc47f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="66ecf88cb55ecde4b4cc48ef02c83cf82280e036">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_de0ef87437bb08dca79e3aeabc26090c8c048264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.amulyakhare\com.amulyakhare.textdrawable\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d237556caead5b93d97e18a071059a2c0045978e">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.amulyakhare-com.amulyakhare.textdrawable-1.0.1_958253f5140e7f189e9149c7edccd2ff372f6756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_0ba4d1adf0a14ba3bb8f9ec7bea88820b6487431\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\samra\Documents\AndroidProject\ProjectHomework\2.0\ProjectHomework\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9f3d06fda2e6b071a6342f1659f40e0978f2b5d8\classes.dex" />
+    </item>
+
+</items>

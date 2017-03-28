@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:background="@color/colorJ"
+        android:id="@+id/contain_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/pad_2dp">
+
+        <TextView
+            android:id="@+id/txtNameSubject"
+            style="@style/font2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_medium"
+            android:paddingLeft="@dimen/pad_2dp"
+            android:paddingTop="@dimen/pad_2dp"
+            android:text="@string/subjectE"
+            android:textColor="@color/colorH"
+            android:textStyle="bold"
+            android:visibility="visible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contain_body"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorH"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/pad_5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/txtChapter"
+                style="@style/font9"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_gravity="center_vertical"
+                android:layout_margin="@dimen/pad_2dp"
+                android:text="chapter11111111111111111" />
+
+            <TextView
+                android:id="@+id/txtExercise"
+                style="@style/font9"
+                android:layout_toRightOf="@+id/txtChapter"
+                android:layout_toLeftOf="@+id/txtScore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:layout_margin="@dimen/pad_2dp"
+                android:text="exercise1111111111111111111111"/>
+
+            <TextView
+                android:id="@+id/txtScore"
+                style="@style/font2"
+                android:gravity="center_horizontal"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="-"
+                android:textColor="@color/colorC"
+                android:layout_alignTop="@+id/txtExercise"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/contain_score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View
+            android:visibility="gone"
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_below="@+id/Lin_question"
+            android:layout_margin="@dimen/pad_10dp"
+            android:background="@color/bgmenu" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/pad_2dp"
+            android:orientation="horizontal"
+            android:paddingBottom="@dimen/pad_20dp">
+
+            <TextView
+                android:id="@+id/textView3"
+                style="@style/font2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_medium"
+                android:background="@drawable/footer_button"
+                android:paddingLeft="@dimen/pad_2dp"
+                android:paddingTop="@dimen/pad_2dp"
+                android:text="@string/sumscore"
+                android:textColor="@color/colorC"
+                android:visibility="visible" />
+
+            <TextView
+                android:id="@+id/txtSumScore"
+                style="@style/font2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_medium"
+                android:background="@drawable/footer_button"
+                android:paddingLeft="@dimen/pad_15dp"
+                android:paddingTop="@dimen/pad_2dp"
+                android:text="0"
+                android:textColor="@color/colorA"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

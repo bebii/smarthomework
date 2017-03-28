@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.habebe.projecthomework"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/homework_icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.habebe.projecthomework.activity.LoginActivity" >
+
+            <!--
+           <intent-filter>
+               <action android:name="android.intent.action.MAIN" />
+
+               <category android:name="android.intent.category.LAUNCHER" />
+           </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.habebe.projecthomework.activity.LauncherActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/NoTitle"
+            android:windowSoftInputMode="adjustPan|stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.habebe.projecthomework.activity.MainActivity"
+            android:label="@string/app_main"
+            android:logo="@style/Widget.AppCompat.DrawerArrowToggle"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme" >
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
+        <activity
+            android:name="com.habebe.projecthomework.activity.AnswerExerCiseActivity"
+            android:label="@string/answer_assign"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name="com.habebe.projecthomework.activity.AddHomeworkActivity"
+            android:label="@string/app_nameAddHw"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.habebe.projecthomework.activity.AssignmentActivity"
+            android:label="@string/label_exercise"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name="com.habebe.projecthomework.activity.ScheduleExamActivity"
+            android:label="@string/label_schedule"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.habebe.projecthomework.activity.ShowScoreActivity"
+            android:label="@string/cell_score"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name="com.habebe.projecthomework.activity.HistoryActivity"
+            android:label="@string/label_history"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name="com.habebe.projecthomework.homework"
+            android:label="@string/app_homework"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name="com.habebe.projecthomework.activity.DoExerciseActivity"
+            android:label="Do Exercise"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+        <!--
+        ATTENTION: This was auto-generated to add Google Play services to your project for
+        App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information.
+        -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.habebe.projecthomework.activity.CalExamActivity"
+            android:label="@string/cal_exam"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+
+        <service
+            android:name="com.habebe.projecthomework.service.MyService"
+            android:enabled="true"
+            android:exported="true"
+            android:stopWithTask="false" />
+
+        <receiver
+            android:name="com.habebe.projecthomework.service.AlarmRecieved"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.habebe.projecthomework.ACTION_REFRESH_SERVICE_ALARM" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.habebe.projecthomework.service.UpdateService"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.habebe.projecthomework.service.MyReceiver"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter android:priority="500" >
+                <action android:name="android.intent.action.ACTION_SHUTDOWN" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+                <action android:name="android.intent.action.DATE_CHANGED" />
+                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+                <action android:name="android.intent.action.TIME_SET" />
+                <action android:name="android.intent.action.TIME_TICK" />
+                <action android:name="com.habebe.projecthomework.ACTION_NOTIFICATION" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.habebe.projecthomework.database.MyContentProvider"
+            android:authorities="com.habebe.homeworkprovider"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name="com.habebe.projecthomework.activity.SubjectActivity"
+            android:label="@string/selectsubject"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+        <activity
+            android:name="com.habebe.projecthomework.activity.StatActivity"
+            android:label="@string/stat"
+            android:screenOrientation="portrait"
+            android:theme="@style/CustomTheme" />
+    </application>
+
+</manifest>
